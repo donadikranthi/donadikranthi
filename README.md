@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kranthi Kumar D 👋</h1>
 
 <p align="center">
-  <em>DevOps & Cloud Engineer · Automating Infrastructure · Building Reliable Systems</em>
+  <em>DevOps & Cloud Engineer </em>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 - 🔭 Currently working on **cloud-native infrastructure automation & CI/CD pipelines**
 - 🌱 Exploring **Platform Engineering, GitOps, and FinOps best practices**
 - 🏗️ Passionate about building **scalable, secure, and observable systems**
-- 📍 Based in **Chennai, India**
+- 📍 Based in **Banglore, India**
 
 ---
 
@@ -31,7 +31,6 @@
 
 #### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### 🐳 Containers & Orchestration
@@ -47,7 +46,6 @@
 #### 🏗️ Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
 
 #### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -57,7 +55,6 @@
 #### 🐚 Scripting & Languages
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
