@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **cloud-native infrastructure automation & CI/CD pipelines**
-- 🌱 Exploring **Platform Engineering, GitOps, and FinOps best practices**
+- 🌱 Exploring **GitOps**
 - 🏗️ Passionate about building **scalable, secure, and observable systems**
 - 📍 Based in **Banglore, India**
 
